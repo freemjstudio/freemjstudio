@@ -1,6 +1,6 @@
 ### Hallo! 👋 :smile_cat:
 
-I like swift/iOS and python , currently :heart: to play and make VR games.
+I like swift/iOS and python , currently fell in :heart: to play and make VR games.
 
 ### ALSO, planning about VR game project for free times! 
  So if you have interest, please feel free to contact me xx
