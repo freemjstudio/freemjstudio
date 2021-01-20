@@ -1,8 +1,9 @@
 ### Hallo! 👋 :smile_cat:
 
-I like swift/iOS, python , currently fell in :heart: to play and make VR games.
+I'm learning swift,iOS, python, fastai
+and currently fell in :heart: to play and make VR games.
 
-### ALSO, planning about VR game project for free times! 
+### ✨🎮 planning about VR game project for free times! 
  So if you have interest, please feel free to contact me xx
  
 
