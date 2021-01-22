@@ -3,7 +3,7 @@
 I'm learning swift,iOS, python, fastai
 and currently fell in :heart: to play and make VR games.
 
-### ✨🎮 planning about VR game project for free times! 
+### ✨🎮 planning VR game project for free times! 
  So if you have interest, please feel free to contact me xx
  
 
