@@ -1,10 +1,7 @@
 ### Hallo! 👋 :smile_cat:
 
 I'm learning swift,iOS, python, fastai
-and currently fell in :heart: to play and make VR games.
 
-### ✨🎮 planning VR game project for free times! 
- So if you have interest, please feel free to contact me xx
  
 
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> 
