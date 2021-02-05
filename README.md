@@ -1,6 +1,6 @@
 ### Hallo! 👋 :smile_cat:
 
-I'm learning swift,iOS, python, fastai
+I'm learning iOS, python, fastai
 
  
 
