@@ -1,6 +1,6 @@
 ### Hallo! 👋 :smile_cat:
 
-I'm studying computer science in CAU and working based on Republic of Korea wishing working abroad in the near future!
+I'm studying computer science in Chungang University. Currently, I'm using South Korea's wi-fi but I wish I can work abroad in the near future!
 
 I like 
 iOS, python and Unity
