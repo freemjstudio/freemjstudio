@@ -1,6 +1,6 @@
 ### Hallo! 👋 :smile_cat:
 
-I'm studying computer science in Chungang University. 
+I'm studying computer science in Chung-ang University. 
 Currently, I'm using South Korea's wi-fi but I wish I can work abroad in the near future! 🐻
 
 I like 
