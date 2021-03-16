@@ -1,7 +1,7 @@
 ### Hallo! 👋 :smile_cat:
 
 I'm studying computer science in Chung-ang University. 
-Currently, I'm using South Korea's wi-fi but I wish I can work abroad in the near future! 🐻
+Currently, I'm using South Korea's wi-fi 🐻
 
 I like 
 iOS, python and Unity
