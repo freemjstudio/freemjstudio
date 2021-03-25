@@ -1,6 +1,6 @@
 ### Hallo! 👋 :smile_cat:
 
-I like 
+
 iOS, python and Unity
  
 
