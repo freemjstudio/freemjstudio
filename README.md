@@ -5,16 +5,18 @@
 #### 모바일 Front-end (iOS) 작업을 하는 우민지입니다. 
 #### 프로그래밍과 예술의 접점을 탐구하는 것을 사랑합니다. 
 
-#### I'm majoring Japanese Literature and Computer Science at CAU, South Korea.
-#### I love to explore visualization by programming
-#### Mostly, I've worked for developing Mobile Frontend [iOS] 
 
-경력
+
+#### Foot print
+
 1. 코더스하이 iOS 2018 수료
 2. 찰랑말랑(iOS) 런칭 at Apple App Store
 3. 찰랑말랑 X SK E&S 콜라보레이션 - SK E&S 사내앱 개발: 직원들의 직장에서의 만족도를 조사하는 앱 
 
 
+#### I'm majoring Japanese Literature and Computer Science at CAU, South Korea.
+#### I love to explore visualization by programming
+#### Mostly, I've worked for developing Mobile Frontend [iOS] 
  
  
 
