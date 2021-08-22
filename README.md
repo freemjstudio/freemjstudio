@@ -5,6 +5,11 @@
 소프트웨어로 시각화를 하는 작업에 관심이 많아
 모바일 frontend (iOS) 작업을 하는 우민지입니다. 
 
+경력
+1. 코더스하이 iOS 2018 수료
+2. 찰랑말랑(iOS) 런칭 at Apple App Store
+3. 찰랑말랑 X SK E&S 콜라보레이션 - SK E&S 사내앱 개발: 직원들의 직장에서의 만족도를 조사하는 앱 
+
 Hi there! I'm majoring Japanese Literature and Computer Science at CAU, South Korea.
 I love to 
  
