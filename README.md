@@ -12,6 +12,11 @@ Mobile Front-end/iOS 작업을 하는 우민지입니다. 📱
 프로그래밍과 예술의 접점을 탐구하는 것을 사랑합니다. 🎨
 
   
+I'm majoring Japanese Literature and Computer Science at CAU, South Korea. 🏫 
+I love to explore visualization by programming! 👀 
+Mostly, I've worked for developing Mobile Frontend [iOS] 📱
+Where is a contact between art and programming? Let's explore..  🎨
+ 
 </div>
  
  
@@ -31,9 +36,7 @@ Mobile Front-end/iOS 작업을 하는 우민지입니다. 📱
 
 <div align=center>
  
-I'm majoring Japanese Literature and Computer Science at CAU, South Korea.
-I love to explore visualization by programming
-Mostly, I've worked for developing Mobile Frontend [iOS] 
+
  
   
 </div>
