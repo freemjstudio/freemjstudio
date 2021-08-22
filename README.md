@@ -25,16 +25,22 @@ Where is a contact between art and programming? Let's explore..  🎨
  
  ---
 
-#### Minji's Footprints 👣
+### Minji's Footprints 👣
 
-1. 중앙대학교 Apple Korea와 함께하는 iOS 특강 수료 [2018.6-2018.8]
+#### 1. 중앙대학교 Apple Korea와 함께하는 iOS 특강 수료 [2018.6-2018.8]
    
    
-2. 찰랑말랑(iOS) 출시 at Apple App Store [2019.8]
+#### 2. 찰랑말랑(iOS) 출시 at Apple App Store [2019.8]
+
   ![스크린샷 2021-08-22 오후 8 17 14](https://user-images.githubusercontent.com/41604678/130353203-3a9be9ea-a001-4fd6-b715-7be042c23f01.png)
+  
+  
+  
   
   ![스크린샷 2021-08-22 오후 8 17 08](https://user-images.githubusercontent.com/41604678/130353210-148d1060-fe03-4e44-9924-ff80e176661a.png)
 
+ 
+ 
  
  
   * LINK: Meet 찰랑말랑 at App Store!   https://apps.apple.com/kr/app/%EC%B0%B0%EB%9E%91%EB%A7%90%EB%9E%91/id1477694079
@@ -43,7 +49,7 @@ Where is a contact between art and programming? Let's explore..  🎨
 
 
 
-4. 찰랑말랑 X SK E&S 콜라보레이션 [2020.05]
+#### 4. 찰랑말랑 X SK E&S 콜라보레이션 [2020.05]
   
   * SK E&S 사내앱 개발: 직원들의 직장에서의 만족도를 조사하는 앱
   
@@ -51,7 +57,8 @@ Where is a contact between art and programming? Let's explore..  🎨
 
 
 
-5. People Space AI Intership
+#### 5. People Space AI Intership
+
 
   <img width="318" alt="스크린샷 2021-08-22 오후 8 24 55" src="https://user-images.githubusercontent.com/41604678/130353303-3f8f3000-7343-405e-900f-1a54015817d2.png">
   
