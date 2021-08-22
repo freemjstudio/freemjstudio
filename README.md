@@ -4,8 +4,9 @@
 
 ### 프로그래밍으로 시각화를 하는 작업에 관심이 많아
 
-### 모바일 frontend (iOS) 작업을 하는 우민지입니다. 
+### 모바일 Front-end (iOS) 작업을 하는 우민지입니다. 
 
+### 프로그래밍과 예술의 접점을 알아가는 것을 사랑합니다. 
 
 ### I'm majoring Japanese Literature and Computer Science at CAU, South Korea.
 ### I love to explore visualization by programming
