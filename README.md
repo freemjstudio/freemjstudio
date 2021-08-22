@@ -32,10 +32,7 @@ Where is a contact between art and programming? Let's explore..  🎨
    
 #### 2. 찰랑말랑(iOS) 출시 at Apple App Store [2019.8]
 
-  ![스크린샷 2021-08-22 오후 8 17 14](https://user-images.githubusercontent.com/41604678/130353203-3a9be9ea-a001-4fd6-b715-7be042c23f01.png)
-  
-  
-  
+
   
   ![스크린샷 2021-08-22 오후 8 17 08](https://user-images.githubusercontent.com/41604678/130353210-148d1060-fe03-4e44-9924-ff80e176661a.png)
 
