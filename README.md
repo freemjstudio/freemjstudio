@@ -42,8 +42,6 @@ Mostly, I've worked for developing Mobile Frontend [iOS]
 
 <div align= center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freemjstudio&layout=compact&theme=dracula)](https://github.com/metleeha)
-
   
   
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> 
@@ -52,5 +50,8 @@ Mostly, I've worked for developing Mobile Frontend [iOS]
 </div>
 
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freemjstudio&layout=compact&theme=dracula)](https://github.com/metleeha)
+
+![Minji's github stats](https://github-readme-stats.vercel.app/api?username=freemjstudio&show_icons=true&theme=radical)
 
  
