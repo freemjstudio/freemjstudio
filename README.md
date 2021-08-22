@@ -2,14 +2,14 @@
 
 <div align=center><h1> 🖐️ Hi, I'm @freemjstudio </h1></div>
 <div align=center>
-일어일문학과 소프트웨어학부를 전공하여 🏫 
   
+일어일문학과 소프트웨어학부를 전공하여 🏫 
+
 프로그래밍으로 시각화를 하는 작업에 관심이 많아 👀 
   
 Mobile Front-end/iOS 작업을 하는 우민지입니다. 📱
   
 프로그래밍과 예술의 접점을 탐구하는 것을 사랑합니다. 🎨
-
 
   
 </div>
@@ -41,7 +41,9 @@ Mostly, I've worked for developing Mobile Frontend [iOS]
 
 
 <div align= center>
-  Fave Framework & programming languages :
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freemjstudio&layout=compact&theme=dracula)](https://github.com/metleeha)
+
   
   
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> 
@@ -50,7 +52,5 @@ Mostly, I've worked for developing Mobile Frontend [iOS]
 </div>
 
   
- More Information..
-  
- [![Top Langs]]
+
  
