@@ -31,20 +31,33 @@ Where is a contact between art and programming? Let's explore..  🎨
    
    
 2. 찰랑말랑(iOS) 출시 at Apple App Store [2019.8]
+  ![스크린샷 2021-08-22 오후 8 17 14](https://user-images.githubusercontent.com/41604678/130353203-3a9be9ea-a001-4fd6-b715-7be042c23f01.png)
+  
+  ![스크린샷 2021-08-22 오후 8 17 08](https://user-images.githubusercontent.com/41604678/130353210-148d1060-fe03-4e44-9924-ff80e176661a.png)
 
+ 
+ 
+  * LINK: Meet 찰랑말랑 at App Store!   https://apps.apple.com/kr/app/%EC%B0%B0%EB%9E%91%EB%A7%90%EB%9E%91/id1477694079
 
-https://apps.apple.com/kr/app/%EC%B0%B0%EB%9E%91%EB%A7%90%EB%9E%91/id1477694079
-
+  * repo :
 
 
 
 4. 찰랑말랑 X SK E&S 콜라보레이션 [2020.05]
-   SK E&S 사내앱 개발: 직원들의 직장에서의 만족도를 조사하는 앱
+  
+  * SK E&S 사내앱 개발: 직원들의 직장에서의 만족도를 조사하는 앱
    
    
 5. People Space AI Intership
-   People Space : https://peoplespace.us/ [2021.01- 2021.02]
-   Stockreader 프로젝트 (현재 종료) - 기획 참여 및 백엔드 개발 
+
+
+  * LINK: People Space https://peoplespace.us/ [2021.01- 2021.02]
+   
+  * Stockreader 프로젝트 (현재 종료) - 기획 참여 및 백엔드 개발 
+   
+  * repo : https://github.com/cali-in-cau/Back-end  [백엔드/Server side 개발]
+
+  * repo : https://github.com/freemjstudio/Shoes-classifier [Machine Learning 실습 ] : 나이키/아디다스/리복 운동화 분류기
   
 
 <div align=center>
