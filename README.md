@@ -13,8 +13,11 @@ Mobile Front-end/iOS 작업을 하는 우민지입니다. 📱
 
   
 I'm majoring Japanese Literature and Computer Science at CAU, South Korea. 🏫 
+  
 I love to explore visualization by programming! 👀 
+  
 Mostly, I've worked for developing Mobile Frontend [iOS] 📱
+  
 Where is a contact between art and programming? Let's explore..  🎨
  
 </div>
@@ -24,11 +27,19 @@ Where is a contact between art and programming? Let's explore..  🎨
 #### Minji's Footprints 👣
 
 1. 중앙대학교 Apple Korea와 함께하는 iOS 특강 수료 [2018.6-2018.8]
+
+
 2. 2019 서울 이동 통합 서비스 MaaS 해커톤 예선 
    : 심야 대중교통 정보를 한눈에 보여주는 여성 아동 안심귀가 서비스 기획
+   
+   
 3. 찰랑말랑(iOS) 출시 at Apple App Store [2019.8]
+
+
 4. 찰랑말랑 X SK E&S 콜라보레이션 [2020.05]
    SK E&S 사내앱 개발: 직원들의 직장에서의 만족도를 조사하는 앱
+   
+   
 5. People Space AI Intership
    People Space : https://peoplespace.us/ [2021.01- 2021.02]
    Stockreader 프로젝트 (현재 종료) - 기획 참여 및 백엔드 개발 
