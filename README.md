@@ -11,6 +11,7 @@ Mobile Front-end/iOS 작업을 하는 우민지입니다. 📱
   
 프로그래밍과 예술의 접점을 탐구하는 것을 사랑합니다. 🎨
 
+  ==========================================
   
 I'm majoring Japanese Literature and Computer Science at CAU, South Korea. 🏫 
   
