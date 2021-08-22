@@ -1,6 +1,8 @@
 
 
-#### 일어일문학과 소프트웨어학부를 전공하여 🏫
+<div align=center><h1> 🖐️ Hi, I'm @freemjstudio </h1></div>
+<div align=center>
+ 일어일문학과 소프트웨어학부를 전공하여 🏫
 #### 프로그래밍으로 시각화를 하는 작업에 관심이 많아 👀
 #### 모바일 Front-end (iOS) 작업을 하는 우민지입니다. 📱
 #### 프로그래밍과 예술의 접점을 탐구하는 것을 사랑합니다. 🍀
@@ -18,7 +20,7 @@
 #### I love to explore visualization by programming
 #### Mostly, I've worked for developing Mobile Frontend [iOS] 
  
- 
+</div>
 
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> 
  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" height="30"/>  <a href="https://www.python.org" target="_blank">
