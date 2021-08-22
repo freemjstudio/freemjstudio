@@ -11,7 +11,7 @@ Mobile Front-end/iOS 작업을 하는 우민지입니다. 📱
   
 프로그래밍과 예술의 접점을 탐구하는 것을 사랑합니다. 🎨
 
-  ==========================================
+ ---
   
 I'm majoring Japanese Literature and Computer Science at CAU, South Korea. 🏫 
   
@@ -23,7 +23,7 @@ Where is a contact between art and programming? Let's explore..  🎨
  
 </div>
  
- 
+ ---
 
 #### Minji's Footprints 👣
 
@@ -54,7 +54,7 @@ https://apps.apple.com/kr/app/%EC%B0%B0%EB%9E%91%EB%A7%90%EB%9E%91/id1477694079
   
 </div>
  
-
+---
 
 <div align= center>
   
@@ -63,11 +63,12 @@ https://apps.apple.com/kr/app/%EC%B0%B0%EB%9E%91%EB%A7%90%EB%9E%91/id1477694079
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> 
  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" height="30"/>  <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a>
-</div>
+
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freemjstudio&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 ![Minji's github stats](https://github-readme-stats.vercel.app/api?username=freemjstudio&show_icons=true&theme=radical)
 
+   </div>
  
