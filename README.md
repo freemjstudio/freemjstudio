@@ -8,6 +8,10 @@ Mobile Front-end/iOS 작업을 하는 우민지입니다. 📱
 프로그래밍과 예술의 접점을 탐구하는 것을 사랑합니다. 🍀
 
 
+  
+</div>
+ 
+ 
 
 #### Minji's Footprints 👣
 
@@ -16,12 +20,17 @@ Mobile Front-end/iOS 작업을 하는 우민지입니다. 📱
 3. 찰랑말랑 X SK E&S 콜라보레이션 - SK E&S 사내앱 개발: 직원들의 직장에서의 만족도를 조사하는 앱 
 
 
-#### I'm majoring Japanese Literature and Computer Science at CAU, South Korea.
-#### I love to explore visualization by programming
-#### Mostly, I've worked for developing Mobile Frontend [iOS] 
+<div align=center>
+ 
+I'm majoring Japanese Literature and Computer Science at CAU, South Korea.
+I love to explore visualization by programming
+Mostly, I've worked for developing Mobile Frontend [iOS] 
+ 
+  
+</div>
+ 
  
 </div>
-
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> 
  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" height="30"/>  <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a>
