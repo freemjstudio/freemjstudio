@@ -3,22 +3,13 @@
 <div align=center><h1> 🖐️ Hi, I'm @freemjstudio </h1></div>
 <div align=center>
   
-일어일문학과 소프트웨어학부를 전공하여 🏫 
 
-프로그래밍으로 시각화를 하는 작업에 관심이 많아 👀 
-  
-Mobile Front-end/iOS 작업을 하는 우민지입니다. 📱
-
-
- ---
-  
 I'm majoring Japanese Literature and Computer Science at CAU, South Korea. 🏫 
   
 I love to explore visualization by programming! 👀 
   
 Mostly, I've worked for developing Mobile Frontend [iOS] 📱
   
-Where is a contact between art and programming? Let's explore..  🎨
  
 </div>
  
