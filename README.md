@@ -63,7 +63,7 @@ Mostly, I've worked for developing Mobile Frontend [iOS] 📱
        
      [Machine Learning 실습 ] 나이키/아디다스/리복 운동화 분류기
   
-  #### 6. 창작 공모전 ACT GROUND 웹앱 :
+  #### 6. 창작 공모전 ACT GROUND 웹앱 : http://3.35.123.55:8000/mj/
   
   #### 7. Nexters FullStack : In Progress... - iOS Mobile Application 
 
