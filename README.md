@@ -17,18 +17,10 @@ I'm interested in developing a brand new service
 ### Minji's Footprints 👣
 
 #### 1. 중앙대학교 Apple Korea와 함께하는 iOS 특강 수료 [2018.6-2018.8]
-   
-   
 #### 2. 찰랑말랑(iOS) 출시 at Apple App Store [2019.8]
 
-
-  
   ![스크린샷 2021-08-22 오후 8 17 08](https://user-images.githubusercontent.com/41604678/130353210-148d1060-fe03-4e44-9924-ff80e176661a.png)
 
- 
- 
- 
- 
   * LINK: Meet 찰랑말랑 at App Store!   https://apps.apple.com/kr/app/%EC%B0%B0%EB%9E%91%EB%A7%90%EB%9E%91/id1477694079
 
   * repo :  https://github.com/ChalangMalang/ChalangMalang-iOS
@@ -41,14 +33,9 @@ I'm interested in developing a brand new service
   
   * repo :  https://github.com/ChalangMalang/ChalangMalang-SK-iOS. 
 
-
-
 #### 5. People Space AI Intership
 
-
   <img width="318" alt="스크린샷 2021-08-22 오후 8 24 55" src="https://user-images.githubusercontent.com/41604678/130353303-3f8f3000-7343-405e-900f-1a54015817d2.png">
-  
-  
 
   * LINK: People Space https://peoplespace.us/ [2021.01- 2021.02]
    
@@ -62,15 +49,15 @@ I'm interested in developing a brand new service
        
      [Machine Learning 실습 ] 나이키/아디다스/리복 운동화 분류기
   
-  #### 6. 창작 공모전 ACT GROUND 웹앱 : http://3.35.123.55:8000/mj/
+  #### 6. 창작 공모전 ACT GROUND 웹앱 - Fullstack [2021.08~2021.12]
+  * site : http://3.35.123.55:8000/mj/
+
+![스크린샷 2021-12-30 오후 2 33 53](https://user-images.githubusercontent.com/41604678/147725292-212990ca-619f-42d1-b7a0-29a39741a3cf.png)
   
-    <img width="318" alt="스크린샷 2021-08-22 오후 8 24 55" src="https://user-images.githubusercontent.com/41604678/147724853-52f1c010-1281-4472-af23-9f6ef0c48acf.png">
-  
-  
-  
-  #### 7. Nexters FullStack - iOS Mobile Application 
+  #### 7. Nexters FullStack - iOS Mobile Application [2021.01~2021.12]
   * SwiftUI + RealmSwift
-***  앱스토어 심사중
+  * repo : https://github.com/Nexters/18th-FS-iOS
+*** 앱스토어 심사중
   
 
 <div align=center>
