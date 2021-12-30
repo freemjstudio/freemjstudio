@@ -65,9 +65,11 @@ Mostly, I've worked for developing Mobile Frontend [iOS] 📱
   
   #### 6. 창작 공모전 ACT GROUND 웹앱 : http://3.35.123.55:8000/mj/
   
+  https://user-images.githubusercontent.com/41604678/147724853-52f1c010-1281-4472-af23-9f6ef0c48acf.png
+  
   #### 7. Nexters FullStack - iOS Mobile Application 
   * SwiftUI + RealmSwift
-
+***  앱스토어 심사중
   
 
 <div align=center>
