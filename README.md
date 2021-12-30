@@ -4,11 +4,10 @@
 <div align=center>
   
 
-I'm majoring Japanese Literature and Computer Science at CAU, South Korea. 🏫 
-  
-I love to explore visualization by programming! 👀 
-  
-Mostly, I've worked for developing Mobile Frontend [iOS] 📱
+I'm majoring Japanese Literature and Computer Science at CAU, South Korea. 🏫  
+I'm interested in developing a brand new service
+- Mobile Frontend [iOS] 📱
+- Backend [Django]
   
  
 </div>
