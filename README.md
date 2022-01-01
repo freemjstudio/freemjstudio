@@ -57,7 +57,7 @@ I'm interested in developing a brand new service
   #### 7. Nexters FullStack - iOS Mobile Application [2021.01~2021.12]
   * SwiftUI + RealmSwift
   * repo : https://github.com/Nexters/18th-FS-iOS
-  * 앱스토어 심사중
+  * App Store : https://apps.apple.com/kr/app/%EB%A0%88%EC%9D%B4%EB%B8%94%EB%9F%AC%EB%A6%AC/id1581267873?l=en 
 
 
 <img src="https://user-images.githubusercontent.com/41604678/147725421-89384a16-d810-47f3-a816-949a68853f7e.jpg" width="240" height="520"> <img src="https://user-images.githubusercontent.com/41604678/147725918-2667f5c9-1356-4eed-95a5-203acbd16468.png" width="240" height="520"> 
