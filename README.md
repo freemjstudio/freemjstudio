@@ -2,7 +2,13 @@
 
 <div align=center><h1> 🖐️ Hi, I'm @freemjstudio </h1></div>
 <div align=center>
-  
+  ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=1&height=300&section=header&text=JERCY&desc=이재성&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70)
+
+<br>
+
+<h3 align="center">
+iOS Developer who are interested in visualization and design
+</h3>
 
 I'm majoring Japanese Literature and Computer Science at CAU, South Korea. 🏫  
 I'm interested in developing a brand new service
