@@ -1,69 +1,23 @@
 
 
-<div align=center><h1> 🖐️ Hi, I'm @freemjstudio </h1></div>
-<div align=center>
-  ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=1&height=300&section=header&text=JERCY&desc=이재성&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70)
 
-<br>
+<div align=center>
+
 
 <h3 align="center">
 iOS Developer who are interested in visualization and design
 </h3>
+  
 
-I'm majoring Japanese Literature and Computer Science at CAU, South Korea. 🏫  
-I'm interested in developing a brand new service
-- Mobile Frontend [iOS] 📱
-- Backend [Django]
+🏫  Chungang University, Seoul, Korea
+ 
+🛠 iOS, Python, C/C++, javascript/css/html
+
+🐻‍❄️ Visit Minjee's Portfolio https://www.notion.so/freemjstudio/Minjee-Woo-45774c35e78140509c816e652969c4e6
   
  
 </div>
  
- ---
-
-### Minji's Footprints 👣
-
-#### 1. 중앙대학교 Apple Korea와 함께하는 iOS 특강 수료 [2018.6-2018.8]
-#### 2. 찰랑말랑(iOS) 출시 at Apple App Store [2019.8]
-
-  ![스크린샷 2021-08-22 오후 8 17 08](https://user-images.githubusercontent.com/41604678/130353210-148d1060-fe03-4e44-9924-ff80e176661a.png)
-
-  * LINK: Meet 찰랑말랑 at App Store!   https://apps.apple.com/kr/app/%EC%B0%B0%EB%9E%91%EB%A7%90%EB%9E%91/id1477694079
-
-  * repo :  https://github.com/ChalangMalang/ChalangMalang-iOS
-
-
-
-#### 4. 찰랑말랑 X SK E&S 콜라보레이션 [2020.05]
-  
-  * SK E&S 사내앱 개발: 직원들의 직장에서의 만족도를 조사하는 앱
-  
-  * repo :  https://github.com/ChalangMalang/ChalangMalang-SK-iOS. 
-
-#### 5. People Space AI Intership
-
-  <img width="318" alt="스크린샷 2021-08-22 오후 8 24 55" src="https://user-images.githubusercontent.com/41604678/130353303-3f8f3000-7343-405e-900f-1a54015817d2.png">
-
-  * LINK: People Space https://peoplespace.us/ [2021.01- 2021.02]
-   
-  * Stockreader 프로젝트 (현재 종료) 에서 기획 참여 및 백엔드 개발 
-   
-  * repo : https://github.com/cali-in-cau/Back-end 
-    
-    [백엔드/Server side 개발]
-
-  * repo : https://github.com/freemjstudio/Shoes-classifier 
-       
-     [Machine Learning 실습 ] 나이키/아디다스/리복 운동화 분류기
-  
-  #### 6. 창작 공모전 ACT GROUND 웹앱 - Fullstack [2021.08~2021.12]
-  * site : http://3.35.123.55:8000/mj/
-
-![스크린샷 2021-12-30 오후 2 33 53](https://user-images.githubusercontent.com/41604678/147725292-212990ca-619f-42d1-b7a0-29a39741a3cf.png)
-  
-  #### 7. Nexters FullStack - iOS Mobile Application [2021.01~2021.12]
-  * SwiftUI + RealmSwift
-  * repo : https://github.com/Nexters/18th-FS-iOS
-  * App Store : https://apps.apple.com/kr/app/%EB%A0%88%EC%9D%B4%EB%B8%94%EB%9F%AC%EB%A6%AC/id1581267873?l=en 
 
 
 <img src="https://user-images.githubusercontent.com/41604678/147725421-89384a16-d810-47f3-a816-949a68853f7e.jpg" width="240" height="520"> <img src="https://user-images.githubusercontent.com/41604678/147725918-2667f5c9-1356-4eed-95a5-203acbd16468.png" width="240" height="520"> 
