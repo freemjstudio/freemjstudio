@@ -1,7 +1,7 @@
 
 
 <h3 align="center">
-iOS Developer who are interested in visualization and design
+Hi this is @freemjstudio 's GitHub 😺
 </h3>
   
 
