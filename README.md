@@ -1,20 +1,18 @@
 
 
-
-
-
-
 <h3 align="center">
 iOS Developer who are interested in visualization and design
 </h3>
   
 
 🏫  Chungang University, Seoul, Korea
+    Software Engineering, Japanese Languages and Literature
  
 🛠 iOS, Python, C/C++, javascript/css/html
 
-🐻‍❄️ Visit Minjee's Portfolio 
-https://www.notion.so/freemjstudio/Minjee-Woo-45774c35e78140509c816e652969c4e6
+📚 Blog  https://sinclairstudio.tistory.com/
+
+🐻‍❄️ Portfolio https://www.notion.so/freemjstudio/Minjee-Woo-45774c35e78140509c816e652969c4e6
   
  
 <h3> Search Labelary [레이블러리] at App Store !</h3>
