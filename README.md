@@ -40,9 +40,6 @@ Hi this is @freemjstudio 's GitHub 😺
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a>
 
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freemjstudio&layout=compact&theme=dracula)
-
 ![Minji's github stats](https://github-readme-stats.vercel.app/api?username=freemjstudio&show_icons=true&theme=radical)
 
    </div>
