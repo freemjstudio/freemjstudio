@@ -1,7 +1,7 @@
 
 
 <h3 align="center">
-Improve and Prove ! I'm Minjee Woo 😺
+Improve and Prove ! This is Minjee Woo 😺
 </h3>
   
 
