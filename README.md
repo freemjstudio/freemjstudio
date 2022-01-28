@@ -12,7 +12,7 @@ Improve and Prove ! I'm Minjee Woo 😺
 
 📚 Blog  https://sinclairstudio.tistory.com/
 
-🐻‍❄️ Portfolio https://www.notion.so/freemjstudio/Minjee-Woo-45774c35e78140509c816e652969c4e6
+🐻‍❄️ Minjee's Portfolio https://www.notion.so/freemjstudio/Minjee-Woo-45774c35e78140509c816e652969c4e6
   
  
 <h3> Meet Labelary [레이블러리] at App Store !</h3>
