@@ -1,7 +1,7 @@
 
 
 <h3 align="center">
-Hi this is @freemjstudio 's GitHub 😺
+Improve and Prove ! I'm Minjee Woo 😺
 </h3>
   
 
