@@ -2,10 +2,11 @@
 
 <h3 align="center">
 Hello there ! This is Minjee Woo 😺
-  I'm interested in making robust codes
+
 </h3>
   
-
+  I'm interested in making robust codes
+  
 🏫  Chungang University, Seoul, Korea
     Software Engineering, Japanese Languages and Literature
  
