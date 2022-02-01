@@ -2,6 +2,7 @@
 
 <h3 align="center">
 Hello there ! This is Minjee Woo 😺
+  I'm interested in making robust codes
 </h3>
   
 
@@ -15,6 +16,8 @@ Hello there ! This is Minjee Woo 😺
 🐻‍❄️ Minjee's Portfolio https://www.notion.so/freemjstudio/Minjee-Woo-45774c35e78140509c816e652969c4e6
   
  
+
+
 <h3> Meet Labelary [레이블러리] at App Store !</h3>
  
 
