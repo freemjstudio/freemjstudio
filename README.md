@@ -5,16 +5,24 @@ Hello there ! This is Minjee Woo 😺
 
 </h3>
   
-  I'm interested in making robust codes
+  I'm interested in developing iOS application and see how the data flows from client to database. 
   
-🏫  Chungang University, Seoul, Korea
-    Software Engineering, Japanese Languages and Literature
  
-🛠 iOS, Python, C/C++, javascript/css/html
+🛠 Skills
 
-📚 Blog  https://sinclairstudio.tistory.com/
+Mobile iOS : Swift, Objective-C, RealmDB
+Backend : Databricks(Python, SQL) ,Django(Python, SQLite), 
+Logging System : Avo(Log schema tool), RudderStack
 
-🐻‍❄️ Minjee's Portfolio https://www.notion.so/freemjstudio/Minjee-Woo-45774c35e78140509c816e652969c4e6
+🏫 Education
+Chungang University, Seoul, Korea
+Software Engineering, Japanese Languages and Literature
+
+📚 Blog
+* https://sinclairstudio.tistory.com/
+
+🐻‍❄️ Portfolio 
+* https://www.notion.so/freemjstudio/Minjee-Woo-45774c35e78140509c816e652969c4e6
   
  
 
