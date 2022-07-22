@@ -30,12 +30,3 @@ Hello there ! This is Minjee Woo 😺
 - Japanese : Professional working fluency 
 - Korean : Native speaker
 
-  
- 
-
-
-
-<div align= center>
-![Minji's github stats](https://github-readme-stats.vercel.app/api?username=freemjstudio&show_icons=true&theme=radical)
-</div>
- 
