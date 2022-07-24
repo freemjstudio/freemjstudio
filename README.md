@@ -17,6 +17,7 @@ Hello there ! This is Minjee Woo 😺
 ## 🏫 Education
 
 - Chungang University, Seoul, Korea
+- Chuo University, Tokyo, Japan (Exchange Student for 1year)
 - Software Engineering, Japanese Languages and Literature
 
 ## 📚 Website
