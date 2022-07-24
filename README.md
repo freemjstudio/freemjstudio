@@ -14,6 +14,10 @@ Hello there ! This is Minjee Woo 😺
 - Backend : Databricks(Python, SQL) ,Django(Python, SQLite), 
 - Log Engineering : Avo(Log schema tool), RudderStack
 
+## 💻 Experience
+- PeopleSpace Internship AI program (2021.01 ~ 2021.02 : Backend Intern
+- Enuma Inc (2022.03.02 ~ ) : Data engineering & Client Intern 
+
 ## 🏫 Education
 
 - Chungang University, Seoul, Korea
