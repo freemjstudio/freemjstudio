@@ -16,7 +16,7 @@ Hello there ! This is Minjee Woo 😺
 
 ## 💻 Experience
 - PeopleSpace Internship AI program (2021.01 ~ 2021.02) : Backend Intern
-- Enuma Inc (2022.03.02 ~ ) : Data engineering & Client Intern 
+- Enuma Inc (2022.03.02 ~ 2022.08.26) : Data engineering & Client Intern (ICT 학점연계 인턴십 글로벌 과정 실리콘벨리)
 
 ## 🏫 Education
 
