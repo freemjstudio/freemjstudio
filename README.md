@@ -9,10 +9,11 @@ Hello there ! This is Minjee Woo 😺
   
  
 ## 🛠 Skills
-
+- Language: Python, C++, Swift, Objective-C
 - Mobile iOS : Swift, Objective-C, RealmDB
 - Backend : Databricks(Python, SQL) ,Django(Python, SQLite), 
 - Log Engineering : Avo(Log schema tool), RudderStack
+
 
 ## 💻 Experience
 - PeopleSpace Internship AI program (2021.01 ~ 2021.02) : Backend Intern (remote work)
