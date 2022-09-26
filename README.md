@@ -5,7 +5,7 @@ Hello there ! This is Minjee Woo 😺
 
 </h3>
   
-  I'm interested in developing iOS application and see how the data flows from client to database. 
+  
   
  
 ## 🛠 Skills
