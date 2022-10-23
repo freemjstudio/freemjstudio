@@ -10,8 +10,8 @@ Hello there ! This is Minjee Woo 😺
  
 ## 🛠 Skills
 - Language: Python, C++, Swift, Objective-C
-- Mobile iOS : Swift, Objective-C, C++, SwiftUI, UIKit
-- Backend : Databricks(Python, SQL) ,Django(Python, SQLite), 
+- Mobile iOS : Swift, Objective-C, C++, SwiftUI, UIKit, Combine
+- Backend : Databricks(Python, SQL) ,Django(Python, SQLite)
 - Log Engineering : Avo(Log schema tool), RudderStack
 - Data Engineering : SQL, Python, spark 
 
