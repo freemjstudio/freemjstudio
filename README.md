@@ -13,6 +13,7 @@ Hello there ! This is Minjee Woo 😺
 - Mobile iOS : Swift, Objective-C, RealmDB
 - Backend : Databricks(Python, SQL) ,Django(Python, SQLite), 
 - Log Engineering : Avo(Log schema tool), RudderStack
+- Data Engineering : SQL, Python
 
 
 ## 💻 Experience
