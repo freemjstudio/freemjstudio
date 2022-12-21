@@ -3,6 +3,8 @@
 <h3 align="center">
 Hello there ! This is Minjee Woo 😺
 
+  I'm interested in iOS App development and Cloud Engineering  ☁
+  
 </h3>
   
   
