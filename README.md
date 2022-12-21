@@ -1,10 +1,9 @@
 
 
 <h3 align="center">
-Hello there ! This is Minjee Woo 😺
+Hi there ! This is Minjee Woo 
 
-  I'm interested in iOS App development and Cloud Engineering  ☁
-  
+I'm interested in iOS App development and Cloud Services/DevOps  ☁  
 </h3>
   
   
