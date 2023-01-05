@@ -22,6 +22,7 @@ I'm an application developer who is also interested in infrastructure
 - 찰랑말랑 iOS application as iOS developer (2019.06 ~ 2019.08)
 - 찰랑말랑 X SK e&s collaboration (2020.05)
 - Labelary iOS application as iOS developer (2021.01 ~ Present)
+- BigData Term Projects - 2022 Qatar Worldcup Winner Prediction
 
 ## 🏫 Education
 
