@@ -18,7 +18,7 @@ I'm an application developer who is also interested in infrastructure
 - PeopleSpace Internship AI program (2021.01 ~ 2021.02) : Backend Intern (remote work)
 - Enuma Inc (2022.03.02 ~ 2022.08.26) : Data engineering & Client Intern (worked in Berkeley Office)
 
-## Projects
+## 💻 Projects
 - 찰랑말랑 iOS application as iOS developer (2019.06 ~ 2019.08)
 - 찰랑말랑 X SK e&s collaboration (2020.05)
 - Labelary iOS application as iOS developer (2021.01 ~ Present)
