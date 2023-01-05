@@ -2,18 +2,15 @@
 
 <h3 align="center">
 Hi there ! This is Minjee Woo 
-
-I'm interested in iOS App development and Cloud Services/DevOps  ☁  
+I'm a application developer who is also interested in infrastructure
 </h3>
-  
-  
   
  
 ## 🛠 Skills
 - Language: Python, C++, Swift, Objective-C
 - Mobile iOS : Swift, Objective-C, C++, SwiftUI, UIKit, Combine
 - Backend : Django(Python, SQLite)
-- Infra & DevOps : Linux (CentOS, Ubuntu)
+- Infra: Linux (CentOS, Ubuntu)
 - Data Engineering : Avo(Log schema tool), Databricks(Python, SQL, Spark)
 
 ## 💻 Experience
