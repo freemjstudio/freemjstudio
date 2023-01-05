@@ -3,7 +3,7 @@
 <h3 align="center">
 Hi ! This is Minjee Woo 
   
-I'm a application developer who is also interested in infrastructure
+I'm an application developer who is also interested in infrastructure
 </h3>
   
  
