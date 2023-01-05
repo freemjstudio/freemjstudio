@@ -1,7 +1,8 @@
 
 
 <h3 align="center">
-Hi there ! This is Minjee Woo 
+Hi ! This is Minjee Woo 
+  
 I'm a application developer who is also interested in infrastructure
 </h3>
   
