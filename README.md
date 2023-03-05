@@ -6,4 +6,9 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Kubernetes-FCC624?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
-#### Interested in DevOps , Cloud Engineering & Architecture and Application Development 
+##  DevOps , Cloud Engineering , Architecture for Sustainable Application Development 
+
+Tech Blog
+LinkedIn
+
+Projects 
