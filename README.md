@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minjee Woo&fontSize=90)
 
 <h3 align="center"> Pursuing sustainable service and infrastructure based on data & cloud </h3>
 I do love "sustainability". My tech blog name is "Sustainable Development". My life goal and also a goal as a engineer is sustainable growth. Achieving the result in a short momentum is great but I always keep in mind, "What's the next step?". I will "Stay Hungry" for new technology and better skills.
