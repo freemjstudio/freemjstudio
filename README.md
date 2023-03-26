@@ -14,7 +14,7 @@
 
 
 ### Backend
-<a target="_blank"><img src="https://img.shields.io/badge/Django-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
 ### Client - iOS
 <a target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
