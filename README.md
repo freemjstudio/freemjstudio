@@ -1,4 +1,4 @@
-<h2> Pursuing sustainable service and infrastructure based on data & cloud </h2>
+<h3 align="center"> Pursuing sustainable service and infrastructure based on data & cloud </h3>
 
 <div align="center">
 
