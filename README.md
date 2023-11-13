@@ -12,7 +12,7 @@ I do love "sustainability". My tech blog name is "Sustainable Development". My l
 <a target="_blank"><img src="https://img.shields.io/badge/Spark-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
 ### ML Engineering (GenAI - LLM)
-<a target="_blank"><img src="https://img.shields.io/badge/RAG(VectorDB)-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/RAG-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
 ### DevOps/Infra
 
