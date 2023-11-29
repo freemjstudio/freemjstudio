@@ -5,13 +5,16 @@ I do love "sustainability". My tech blog name is "Sustainable Development". My l
 
 <div>
 
+### Programming Language 
+Python, C++, Swift, shell script
+
 ### Data Engineering 
 <a target="_blank"><img src="https://img.shields.io/badge/Databricks-FCC624?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Spark-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
-### ML Engineering (LLM)
+### ML Engineering 
 <a target="_blank"><img src="https://img.shields.io/badge/RAG-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/ElasticSearch-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/LLM-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
@@ -32,4 +35,5 @@ I do love "sustainability". My tech blog name is "Sustainable Development". My l
 
   </div>
 
+### Tech Blog
 [TechBlog - 지속가능한 개발](https://sinclairstudio.tistory.com/)
