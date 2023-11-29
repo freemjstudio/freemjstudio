@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minji%Woo&fontSize=30)
 
 <h3 align="center"> A Software Engineer Pursuing Sustainable Growth </h3>
-I do love "sustainability". My tech blog name is "Sustainable Development". My life goal and also a goal as an engineer is sustainable growth. Achieving the result in a short momentum is great but I will try to keep in mind, "What's the next step?". Always excited for new tech, new study, new environment ! 
+I do love "sustainability". My tech blog name is "Sustainable Development". My goal as an engineer is a "sustainable engineer" who always study new technologies and digging how it works.
 
 <div>
 
 ### Programming Language 
-Python, C++, Swift, shell script
+Python, C++, Swift, shell script 
 
 ### Data Engineering 
 <a target="_blank"><img src="https://img.shields.io/badge/Databricks-FCC624?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
