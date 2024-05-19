@@ -22,18 +22,18 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 <a target="_blank"><img src="https://img.shields.io/badge/Objective C-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
 ### Experiences 
-##### Megazone Cloud - Data Engineer, Solutions Architect
+##### Megazone Cloud Seoul, Korea - Data Engineer, Solutions Architect
 - Table migration from on premise database (Oracle, Postgresql, MariaDB) to cloud delta lake (Databricks) environment
 - Developed ETL workflow based on medalion architecture
 - Built AWS VPC to deploy Databricks Workspace
 - Developed RAG based on ElasticSearch 
 
-##### Enuma, Inc. - Software Engineer Intern
+##### Enuma, Inc. California, United States - Software Engineer Intern
 - Edu Tech company based on Sillicon Valley 
 - Working as client mobile application developer and data engineer.
 - See how the data is collected from the client and stacked in server. Checked the log data from server through Databricks and query the log data to check the data quality of EnumaSchool App
   
-##### People Space - Trainee
+##### People Space, California, United States - Software Engineer Intern
 - Developed a web application that predicts stock market using ML and contributed as a backend developer based on Django framework.
   
 ### Educations
