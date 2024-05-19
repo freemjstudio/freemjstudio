@@ -1,5 +1,5 @@
-<h3 align="center"> A Software Engineer Pursuing Sustainable Growth </h3>
-My goal as an engineer is a "sustainable engineer" who always study new technologies and digging how it works.
+<h3 align="center"> A Software Engineer, Data & Cloud </h3>
+- My goal as an engineer is a "sustainable engineer" who always study new technologies and digging how it works. 
 
 <div>
 
@@ -20,6 +20,7 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 <a target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Objective C-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
+### Links  
 
 [TechBlog](https://sinclairstudio.tistory.com/)
 [LinkedIn](https://www.linkedin.com/in/minjee-woo-7a326922b/)
