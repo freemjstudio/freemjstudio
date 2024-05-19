@@ -14,12 +14,12 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 <a target="_blank"><img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/FastAPI-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/ElasticSearch-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
-<a target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/Linux-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Docker-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
-<a target="_blank"><img src="https://img.shields.io/badge/Kubernetes-FCC624?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
-<a target="_blank"><img src="https://img.shields.io/badge/AWS-FCC624?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
-<a target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
-<a target="_blank"><img src="https://img.shields.io/badge/Objective C-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/Kubernetes-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/AWS-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/Swift-3776ABstyle=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/Objective C-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
 ### Experiences 
 ##### Megazone Cloud - Data Engineer, Solutions Architect
