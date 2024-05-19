@@ -14,7 +14,6 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 <a target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Objective C-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/C++-F05138?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
-  </div>
 <a target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Docker-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Kubernetes-FCC624?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
