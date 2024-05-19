@@ -10,6 +10,7 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 <a target="_blank"><img src="https://img.shields.io/badge/Spark-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Hive-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/DeltaLake-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/MLFlow-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/FastAPI-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/ElasticSearch-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
@@ -22,8 +23,7 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 
 ### Experiences 
 ##### Megazone Cloud - Data Engineer, Solutions Architect
-
-- Table migration from on premise database (Oracle, Postgresql, etc..) to cloud delta lake (Databricks) environment
+- Table migration from on premise database (Oracle, Postgresql, MariaDB) to cloud delta lake (Databricks) environment
 - Developed ETL workflow based on medalion architecture
 - Built AWS VPC to deploy Databricks Workspace
 - Developed RAG based on ElasticSearch 
