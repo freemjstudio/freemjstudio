@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minji%Woo&fontSize=30)
-
 <h3 align="center"> A Software Engineer Pursuing Sustainable Growth </h3>
 I do love "sustainability". My tech blog name is "Sustainable Development". My goal as an engineer is a "sustainable engineer" who always study new technologies and digging how it works.
 
