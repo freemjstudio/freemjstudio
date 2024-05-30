@@ -44,7 +44,7 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 ##### CCCR (한국 클라우드 컴퓨팅 연구 조합)
 - DevOps & SRE bootcamp 
 
-##### Activities 
+### Activities 
 - Nexters 15th, 18th member
 - Gueltto 9th member
 
