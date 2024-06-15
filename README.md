@@ -48,7 +48,7 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 ##### Apple Korea and Chungang University's iOS Application Development Bootcamp
 - Learnt swift and developed prototype iOS application 
 
-### Activities 
+### IT Communities 
 #### Nexters 15th, 18th member
 - 찰랑말랑 iOS developer, a diary application that user can write diary with color of that moment's emotion
 - Labelary iOS developer, an application that user can label the screenshots
