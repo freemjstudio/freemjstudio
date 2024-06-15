@@ -43,11 +43,19 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 - Japanese Language and Literature Bachelor's degree
 
 ##### CCCR (한국 클라우드 컴퓨팅 연구 조합)
-- DevOps & SRE bootcamp 
+- DevOps & SRE bootcamp
+
+##### Apple Korea and Chungang University's iOS Application Development Bootcamp
+- Learnt swift and developed prototype iOS application 
 
 ### Activities 
-- Nexters 15th, 18th member
-- Gueltto 9th member
+#### Nexters 15th, 18th member
+- published iOS application 2 times.
+- 찰랑말랑 iOS application
+- Labelary iOS application  
+
+#### Gueltto 9th member
+- Technical writing IT community 
 
 ### Languages 
 English, Japanese, Korean 
