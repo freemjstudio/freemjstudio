@@ -50,9 +50,8 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 
 ### Activities 
 #### Nexters 15th, 18th member
-- published iOS application 2 times.
-- 찰랑말랑 iOS application
-- Labelary iOS application  
+- 찰랑말랑 iOS developer, a diary application that user can write diary with color of that moment's emotion
+- Labelary iOS developer, an application that user can label the screenshots
 
 #### Gueltto 9th member
 - Technical writing IT community 
