@@ -54,7 +54,10 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 - Labelary iOS developer, an application that user can label the screenshots
 
 #### Gueltto 9th member
-- Technical writing IT community 
+- Technical writing IT community
+
+#### SOPT 25th member
+- Joined as an iOS developer 
 
 ### Languages 
 English, Japanese, Korean 
