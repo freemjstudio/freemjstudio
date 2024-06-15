@@ -24,9 +24,9 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 ### Experiences 
 ##### Megazone Cloud (Seoul, Korea) - Data Engineer, Solutions Architect
 - Table migration from on premise database (Oracle, Postgresql, MariaDB) to cloud delta lake (Databricks) environment
-- Developed ETL workflow based on medalion architecture
+- Developed ETL daily & monthly batch job workflow based on medalion architecture
 - Built AWS VPC to deploy Databricks Workspace
-- Developed RAG based on ElasticSearch 
+- Developed RAG based on ElasticSearch for Megazone Cloud HR Chatbot Application
 
 ##### Enuma, Inc. (California, United States) - Software Engineer Intern
 - Edu Tech company based on Sillicon Valley 
