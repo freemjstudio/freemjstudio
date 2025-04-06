@@ -37,28 +37,6 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 ##### People Space (California, United States) - Software Engineer Intern
 - Developed a web application that predicts stock market using ML and contributed as a backend developer based on Django framework.
   
-### Educations
-##### Chungang University
-- Computer Software Engineering Bachelor's degree
-- Japanese Language and Literature Bachelor's degree
-
-##### CCCR (한국 클라우드 컴퓨팅 연구 조합)
-- DevOps & SRE bootcamp
-
-##### Apple Korea and Chungang University's iOS Application Development Bootcamp
-- Learnt swift and developed prototype iOS application 
-
-### IT Communities 
-#### Nexters 15th, 18th member
-- 찰랑말랑 iOS developer, a diary application that user can write diary with color of that moment's emotion
-- Labelary iOS developer, an application that user can label the screenshots
-
-#### Gueltto 9th member
-- Technical writing IT community
-
-#### SOPT 25th member
-- Joined as an iOS developer 
-
 ### Languages 
 English, Japanese, Korean 
 
