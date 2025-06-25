@@ -40,5 +40,4 @@ English, Japanese, Korean
 
 ### Links  
 
-[TechBlog](https://sinclairstudio.tistory.com/)
 [LinkedIn](https://www.linkedin.com/in/minjee-woo-7a326922b/)
