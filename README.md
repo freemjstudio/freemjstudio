@@ -20,7 +20,7 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 <a target="_blank"><img src="https://img.shields.io/badge/AWS-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
 ### Experiences 
-##### CJ Olive Young - Software Engineer
+##### CJ Olive Young - Software Engineer (25.06 ~ current)
 - Developing OliveYoung Global Market
 
 ##### Megazone Cloud (Seoul, Korea) - Data Engineer
