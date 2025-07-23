@@ -20,6 +20,9 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 <a target="_blank"><img src="https://img.shields.io/badge/AWS-3776AB?style=flat-square&logo=appveyor&logo=linux&logoColor=000000"/></a> 
 
 ### Experiences 
+##### CJ Olive Young - Software Engineer
+- Developing OliveYoung Global Market
+
 ##### Megazone Cloud (Seoul, Korea) - Data Engineer
 - Table migration from on premise database (Oracle, Postgresql, MariaDB) to cloud delta lake (Databricks) environment
 - Developed incremental ETL daily & monthly batch job workflow based on medalion architecture
