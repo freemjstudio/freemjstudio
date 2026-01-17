@@ -21,8 +21,10 @@ My goal as an engineer is a "sustainable engineer" who always study new technolo
 
 ### Experiences 
 ##### CJ Olive Young - Software Engineer (25.06 ~ current)
-- Developing OliveYoung Global Market
-
+- Global Platform Core Development Team Software Engineer, Order & Claim Squad
+- Developing OliveYoung Global Mall (Cross Border) & US localized mall
+- Developed Tax Engine Service and integrated with old / new services 
+  
 ##### Megazone Cloud (Seoul, Korea) - Data Engineer
 - Table migration from on premise database (Oracle, Postgresql, MariaDB) to cloud delta lake (Databricks) environment
 - Developed incremental ETL daily & monthly batch job workflow based on medalion architecture
